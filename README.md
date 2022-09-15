@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Yeo Hyunjin%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=YeoHyunjin%20render&fontSize=90)
 
 ### Hi there 👋
 
