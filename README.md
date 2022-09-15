@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&section=header&text=%20%20Yeo&fontSize=40&rotate=10) 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Yeo&animation=fadeIn&color=timeGradient&fontSize=70&height=150 )
+![header](https://capsule-render.vercel.app/api?type=waving&text=Yeo&animation=fadeIn&color=timeGradient&fontSize=70&height=180 )
 
 ### Hi there 👋
 
