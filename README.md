@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 
-![Yeo616's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true&theme=radical)
+
+[![Yeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeo616)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+![Yeo's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true&theme=radical)
 
 
 <!--
