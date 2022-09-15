@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Yeo616's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true)
+![Yeo616's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true&theme=radical)
 
 
 <!--
