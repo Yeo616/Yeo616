@@ -7,6 +7,13 @@
 
 ### Hi there 👋
 
+개인 프로젝트:
+
+</br>
+
+팀별 프로젝트:
+
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeo616&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
