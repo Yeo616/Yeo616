@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Yeo Hyunjin%20render&fontSize=90)
+
 ### Hi there 👋
 
 
@@ -22,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer%20render&fontSize=90)
