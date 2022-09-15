@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&section=header&text=%20%20Yeo&fontSize=40&rotate=10)
+
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&section=header&text=%20%20Yeo&fontSize=40&rotate=10) 
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&text=Yeo&animation=scaleIn&color=timeGradient&fontSize=70&height=200 )
 
 ### Hi there 👋
 
@@ -25,4 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer%20render&fontSize=90)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
