@@ -18,12 +18,12 @@
 
 </br>
 
+
+
+![Yeo's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeo616&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-
-![Yeo's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true&theme=radical)
-
 
 <!--
 **Yeo616/Yeo616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
