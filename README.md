@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=YeoHyunjin%20render&fontSize=90&rotate=-30&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Yeo%20render&animation=fadeIn&fontSize=90&rotate=30)
 
 ### Hi there 👋
 
