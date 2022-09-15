@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Yeo616's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true)
+
+
 <!--
 **Yeo616/Yeo616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
