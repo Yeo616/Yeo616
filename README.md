@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&section=header&text=Yeo%20render&fontSize=50&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&section=header&text=%20%20Yeo&fontSize=40&rotate=10)
 
 ### Hi there 👋
 
