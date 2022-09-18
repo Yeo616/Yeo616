@@ -42,6 +42,8 @@ streamlit
 
 </br>
 
+백엔드, 클라우드, 데이터분석, 인공지능, 프론트엔드, 안드로이드 등
+
 
 
 ![Yeo's github stats](https://github-readme-stats.vercel.app/api?username=Yeo616&show_icons=true&theme=radical)
